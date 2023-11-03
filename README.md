@@ -4,15 +4,15 @@ I'm a seasoned Software Engineer with a knack for building scalable systems and 
 
 ## About me
 
-- 🔭 I'm currently working at IBM, driving the development of complex backend systems.
-- 🌱 My areas of expertise include data science, machine learning, and database optimization.
-- 💡 I’m a versatile developer, familiar with Db2, Opensearch, Python, Spring, and Scala among others.
+- 🔭 I'm currently working at IBM, driving the development of complex analytics systems.
+- 🌱 My areas of expertise include both frontend and backend programming, as well as database optimization.
+- 💡 I’m a versatile developer, familiar with Java, Javascript, Python, Db2, Opensearch, Spring, and Scala among others.
 - 🤝 I'm an avid collaborator who loves working in cross-functional teams.
 - ⚡ Fun fact: When I'm not coding, I'm probably playing hot wheels with my son, or expertly crafting quesadillas.
 
 ## Skills and Expertise 🛠️
 
-- 💻 **Languages**: Python, Javascript, Java, Scala, SQL, Bash, C++
+- 💻 **Languages**: Javascript, Java, Python, Scala, SQL, Bash, C++
 - 🛢️ **Databases**: Db2, Opensearch
 - 🌐 **Frameworks/Libraries**:  React, Angular, Node.js, Spring, Pandas, Numpy, SciKit, Django
 - 🎲 **Data Science/ML**: Spark ML, Python (Pandas, Numpy, Scikit-Learn)
@@ -21,7 +21,7 @@ I'm a seasoned Software Engineer with a knack for building scalable systems and 
 
 ## What I'm learning 📚
 
-- Currently diving deeper into cloud-native applications, and always staying on top of the latest in ML.
+- Lately I have been working on my website and diving deeper into the React ecosystem.
 - Strengthening my skills in Docker for more effective containerization. 🐳
 - Always reading something about computer science fundamentals, including data structures, algorithms, and design patterns.
 
