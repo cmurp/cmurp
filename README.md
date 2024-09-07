@@ -1,33 +1,32 @@
-# Hello, world! 👋 I'm Chris Murphy! 👻
+**About Me**
 
-I'm a seasoned Software Engineer with a knack for building scalable systems and crafting clean, maintainable code. I love Python 🐍, Java ☕, and everything in between!
+Hi there! I'm Chris Murphy, B8 Advisory Software Engineer at IBM with a passion for building scalable, maintainable, and efficient backend systems. With a strong background in Java and Python,and a focus on Machine Learning (ML) and analytics.
 
-## About me
+**Expertise and Interests**
 
-- 🔭 I'm currently working at IBM, driving the development of complex analytics systems.
-- 🌱 My areas of expertise include both frontend and backend programming, as well as database optimization.
-- 💡 I’m a versatile developer, familiar with Java, Javascript, Python, Db2, Opensearch, Spring, and Scala among others.
-- 🤝 I'm an avid collaborator who loves working in cross-functional teams.
-- ⚡ Fun fact: When I'm not coding, I'm probably playing hot wheels with my son, or expertly crafting quesadillas.
+* **Backend Development**: I've honed my skills in building robust backend systems using Java, Python, and Spring. My expertise extends to database design, optimization, and management, with a focus on scalable architectures.
+* **Machine Learning**: I'm intrigued by the possibilities of ML and am currently exploring various libraries and frameworks, including PyTorch and TT Metallium. I'm excited to apply ML concepts to real-world problems and push model performance writing low level kernel code.
+* **Databases**: I've worked extensively with Db2, Opensearch, and relational databases, ensuring data consistency, performance, and security.
+* **Cloud**: I'm familiar with modern cloud architecture and principles, and have experience with cloud deployment and management.
 
-## Skills and Expertise 🛠️
+**Skills and Tools**
 
-- 💻 **Languages**: Javascript, Java, Python, Scala, SQL, Bash, C++
-- 🛢️ **Databases**: Db2, Opensearch
-- 🌐 **Frameworks/Libraries**:  React, Angular, Node.js, Spring, Pandas, Numpy, SciKit, Django
-- 🎲 **Data Science/ML**: Spark ML, Python (Pandas, Numpy, Scikit-Learn)
-- ⚙️ **Tools**: Docker, Linux, JCL
-- ☁️ **Cloud**: Familiar with modern cloud architecture and principles
+* **Programming Languages**: Java, Python, Scala, SQL, Bash, C++
+* **Databases**: Db2, Opensearch, relational databases
+* **Frameworks/Libraries**: Spring, Django, Pandas, Numpy, SciKit, PyTorch
+* **Tools**: Docker, Linux, ZOS
+* **Cloud**: AWS, GCP, Azure
 
-## What I'm learning 📚
+**What I'm Learning**
 
-- Lately I have been working on my website and diving deeper into the React ecosystem.
-- Strengthening my skills in Docker for more effective containerization. 🐳
-- Always reading something about computer science fundamentals, including data structures, algorithms, and design patterns.
+* **ML and Deep Learning**: I'm actively learning and exploring various ML libraries and frameworks to develop predictive models and improve my understanding of ML concepts.
+* **Cloud Computing**: I'm expanding my knowledge on cloud architecture, deployment, and management to ensure seamless scalability and reliability.
 
-## Collaboration and Communication 🤝
+**Collaboration and Communication**
 
-- I'm always open for collaborations, mentorship opportunities, or just a chat about the latest tech trends!
-- Feel free to shoot me an email at `chrismurphy@hey.com`.
+* I'm always open to collaborations, mentorship opportunities, or discussions on the latest tech trends.
+* Feel free to reach out to me via email at `chrismurphy@hey.com`.
 
-Happy coding! 👩‍💻👨‍💻
+**Get in Touch**
+
+If you're interested in collaborating or discussing anything related to backend development or ML, I'd love to hear from you! Let's build something amazing together!
