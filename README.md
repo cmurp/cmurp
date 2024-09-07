@@ -1,6 +1,6 @@
 **About Me**
 
-Hi there! I'm Chris Murphy, B8 Advisory Software Engineer at IBM with a passion for building scalable, maintainable, and efficient backend systems. With a strong background in Java and Python,and a focus on Machine Learning (ML) and analytics.
+Hi there! I'm Chris Murphy, B8 Advisory Software Engineer at IBM with a passion for building scalable, maintainable, and efficient backend systems. With a strong background in Java and Python, and a focus on Machine Learning (ML) and analytics.
 
 **Expertise and Interests**
 
@@ -12,10 +12,10 @@ Hi there! I'm Chris Murphy, B8 Advisory Software Engineer at IBM with a passion 
 **Skills and Tools**
 
 * **Programming Languages**: Java, Python, Scala, SQL, Bash, C++
-* **Databases**: Db2, Opensearch, relational databases
+* **Databases**: Db2, Opensearch, MongoDB, neo4j
 * **Frameworks/Libraries**: Spring, Django, Pandas, Numpy, SciKit, PyTorch
 * **Tools**: Docker, Linux, ZOS
-* **Cloud**: AWS, GCP, Azure
+* **Cloud**: AWS, GCP, Azure, Watson
 
 **What I'm Learning**
 
@@ -26,7 +26,3 @@ Hi there! I'm Chris Murphy, B8 Advisory Software Engineer at IBM with a passion 
 
 * I'm always open to collaborations, mentorship opportunities, or discussions on the latest tech trends.
 * Feel free to reach out to me via email at `chrismurphy@hey.com`.
-
-**Get in Touch**
-
-If you're interested in collaborating or discussing anything related to backend development or ML, I'd love to hear from you! Let's build something amazing together!
