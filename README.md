@@ -1,13 +1,13 @@
 **About Me**
 
-Hi there! I'm Chris Murphy, B8 Advisory Software Engineer at IBM with a passion for building scalable, maintainable, and efficient backend systems. With a strong background in Java and Python, and a focus on Machine Learning (ML) and analytics.
+Hi there! I'm Chris Murphy, B8 Advisory Software Engineer at IBM, where I build scalable, maintainable, and efficient backend systems. With a strong background in Java and Python, and a focus on Machine Learning (ML) and analytics.
 
 **Expertise and Interests**
 
-* **Backend Development**: I've honed my skills in building robust backend systems using Java, Python, and Spring. My expertise extends to database design, optimization, and management, with a focus on scalable architectures.
-* **Machine Learning**: I'm intrigued by the possibilities of ML and am currently exploring various libraries and frameworks, including PyTorch and TT Metallium. I'm excited to apply ML concepts to real-world problems and push model performance writing low level kernel code.
+* **Backend Development**: I have built enterprise grade backend systems using Java, Python, and Spring. My expertise extends to database design, optimization, and management, with a focus on scalable architectures.
+* **Machine Learning**: I have professional experience efficiently implementing and deploying ML solutions, and in my free time, I am currently exploring various libraries and frameworks, including PyTorch and TT Metallium. I'm excited to apply ML concepts to real-world problems and push model performance writing low level kernel code.
 * **Databases**: I've worked extensively with Db2, Opensearch, and relational databases, ensuring data consistency, performance, and security.
-* **Cloud**: I'm familiar with modern cloud architecture and principles, and have experience with cloud deployment and management.
+* **Cloud**: I'm familiar with modern cloud architecture and principles, and have experience with cloud system implementation, deployment and management.
 
 **Skills and Tools**
 
